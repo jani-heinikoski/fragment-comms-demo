@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FragmentCommsDemo</string>
+    <string name="empty_message">No message received yet...</string>
+</resources>
